@@ -1,0 +1,290 @@
+UTF8 // codepage
+Фантастика	  SF, Fantasy
+ sf_history Альтернативна історія	  Alternative history
+ sf_action Бойова фантастика	  Action SF
+ sf_epic Епічна фантастика	  Epic SF
+ sf_heroic Героїчна фантастика	  Heroic SF
+ sf_detective Детективна фантастика	  Detective SF
+ sf_cyberpunk Кіберпанк	  Cyberpunk
+ sf_space Космічна фантастика	  Space SF
+ sf_social Соціальна фантастика	  Social SF
+ sf_horror Жахи	  Horror
+ sf_humor Гумористична фантастика	  Humor SF
+ sf_fantasy Фентезі	  Fantasy
+ sf Наукова фантастика	  Science Fiction
+ child_sf Дитяча фантастика	  Science Fiction for Kids
+ sf_fantasy_city Міське фентезі	  Fantasy city
+ sf_postapocalyptic Постапокаліпсис	  Postapocalyptic
+ love_sf Любовна фантастика	  Love SF
+ gothic_novel Готичний роман	  Gothic novel
+ nsf Ненаукова фантастика	  Non Science Fiction
+ fairy_fantasy Казкова фантастика	  Fairy SF
+ sf_etc Фантастика: інше	  Other SF
+ sf_irony Іронічна фантастика	  Ironical SF
+ sf_fantasy_irony Іронічне фентезі	  Ironyc female fantasy
+ sf_mystic Містика	  Mystic
+ sf_space_opera Космоопера	  Space Opera
+ sf_stimpank Стімпанк	  Stimpank
+ sf_technofantasy Технофентезі	  Technofantasy
+ popadanec Попаданці	  popadanec 
+ historical_fantasy Історичне фентезі	  Historical fantasy
+ humor_fantasy Гумористичне фентезі	  humor_fantasy
+Детективи і Трилери	  Detectives, Thrillers
+ sf_detective Детективна фантастика	  Detective SF
+ det_classic Класичний детектив	  Classical Detective
+ det_police Поліцейський детектив	  Police Stories
+ det_action Бойовик	  Action
+ det_irony Іронічний детектив	  Ironical Detective
+ det_history Історичний детектив	  Historical Detective
+ det_espionage Шпигунський детектив	  Espionage Detective
+ det_crime Кримінальний детектив	  Crime Detective
+ det_political Політичний детектив	  Political Detective
+ det_maniac Маніяки	  Maniacs
+ det_hard Крутий детектив	  Hard-boiled Detective
+ thriller Трилер	  Thrillers
+ detective Детективи: інше	  Detective
+ love_detective Любовні детективи	  Detective Romance
+ child_det Дитячі гостросюжетні		  Detective for Kids
+ thriller_legal Юридичний трилер	  Legal thriller
+ thriller_medical Медичний трилер	  Medical thriller
+ thriller_techno Техно трилер	  Techno Thriller
+ det_cozy Дамський детективний роман	  Cozy Mysteries
+Проза	  Prose
+ prose Проза	  Prose
+ prose_classic Класична проза	  Classical Prose
+ prose_history Історична проза	  Historical Prose
+ prose_contemporary Сучасна проза	  Contemporary Prose
+ prose_counter Контркультура	  Counterculture
+ prose_rus_classic Російська класична проза	  Russian Classics
+ prose_su_classics Радянська класична проза	  Soviet Classics
+ prose_military Про війну	  Military
+ aphorisms Афоризми	  Aphorisms
+ essay Есе, нарис, етюд, начерк	  Essay
+ story Новела	  Story
+ great_story Повість	  Great story
+ short_story Розповідь	  Short story
+ roman Роман	  Roman
+ extravaganza Феєрія	  Extravaganza
+ epistolary_fiction Епістолярна проза	  Epistolary
+ prose_epic Епопея	  Epic
+ prose_magic Магічний реалізм	  Magic realism
+ sagas Сімейний роман/Сімейна сага	  Sagas
+ dissident Антирадянська література	  Anti-Soviet fiction
+ prose_sentimental Сентиментальна проза	  prose_sentimental
+Любовні романи	  Love
+ love_contemporary Сучасні любовні романи	  Contemporary Romance
+ love_history Історичні любовні романи	  Historical Romance
+ love_detective Любовні детективи	  Detective Romance
+ love_short Короткі любовні романи	  Short Romance
+ love_erotica Еротика	  Erotica
+ love Про любов	  About love
+ love_sf Любовна фантастика	  Love SF
+ love_hard Порно	  Porno
+ det_cozy Дамський детективний роман	  Cozy Mysteries
+Пригоди	  Adventures
+ adv_western Вестерн	  Western
+ adv_history Історичні пригоди	  History
+ adv_indian Пригоди про індійців	  Indians
+ adv_maritime Морські пригоди	  Maritime Fiction
+ adv_geo Подорожі і географія	  Travel & Geography
+ adv_animal Природа і тварини	  Nature & Animals
+ adventure Пригоди: інше	  Misk Adventures
+ child_adv Дитячі пригоди	  Adventures for Kids
+Дитяче	  Children's
+ child_tale Казка	  Fairy Tales
+ child_verse Дитячі вірші	  Verses for Kids
+ child_prose Дитяча проза	  Prose for Kids
+ child_sf Дитяча фантастика	  Science Fiction for Kids
+ child_det Дитячі гостросюжетні	  Detective for Kids
+ child_adv Дитячі пригоди	  Adventures for Kids
+ child_education Дитяча освітня література	  Education for Kids
+ children Дитяча література: інше	  For Kids: Misk
+ child_folklore Дитячий фольклор	  Child Folklore
+ prose_game Книга-гра	  Game book
+Поезія	  Poetry, Dramaturgy
+ child_verse Дитячі вірші	  Verses for Kids
+ poetry Поезія: інше	  Poetry
+ humor_verse Гумористичні вірші	  Humor Verses
+ fable Байки	  Fable
+ vers_libre Верлібри	  Vers libre
+ visual_poetry Візуальна поезія	  Visual Poetry
+ lyrics Лірика	  Lyrics
+ palindromes Паліндроми	  Palindromes
+ song_poetry Пісенна поезія	  Song Poetry
+ experimental_poetry Експериментальна поезія	  Experimental Poetry
+ epic_poetry Епічна поезія	  Epic Poetry
+ in_verse у віршах	  In verse
+Старовинне	  Antique
+ antique_ant Антична література	  Antique Literature
+ antique_european Європейська старовинна література	  Antique European Literature
+ antique_russian Староруська література	  Antique Russian Literature
+ antique_east Давньосхідна література	  Antique East Literature
+ antique_myths Міфи. Легенди. Епос	  Myths. Legends. Epos
+ antique Старовинна література: інше	  Other Antique
+Наука, Освіта	  Science, Education
+ sci_history Історія	  History
+ sci_psychology Психологія	  Psychology
+ sci_culture Культурологія	  Cultural Science
+ sci_religion Релігієзнавство	  Religious Studies
+ sci_philosophy Філософія	  Philosophy
+ sci_politics Політика	  Politics
+ sci_business Ділова література	  Business
+ sci_juris Юриспруденція	  Jurisprudence
+ sci_linguistic Мовознавство	  Linguistics
+ sci_medicine Медицина	  Medicine
+ sci_phys Фізика	  Physics
+ sci_math Математика	  Mathematics
+ sci_chem Хімія	  Chemistry
+ sci_biology Біологія	  Biology
+ sci_tech Технічні науки	  Technical
+ science Наукова література: інше	  Misk Science, Education
+ sci_biochem Біохімія	  Biochemistry
+ sci_physchem Фізична хімія	  Physical chemistry
+ sci_anachem Аналітична хімія	  Analitic Chemistry
+ sci_orgchem Органічна хімія	  Organic Chemistry
+ sci_economy Економіка	  Economy
+ sci_state Держава і право	  State science
+ sci_biophys Біофізика	  Biophysics
+ sci_geo Геологія і географія	  Geology
+ sci_cosmos Астрономія і Космос	  Cosmos
+ sci_medicine_alternative Альтернативна медицина	  Alternative medicine
+ sci_philology Літературознавство	  Philology
+ sci_pedagogy Педагогіка	  Pedagogy
+ sci_social_studies Суспільствознавство	  Social studies
+ sci_ecology Екологія	  Ecology
+ military_history Військова історія	  Military History
+ sci_veterinary Ветеринарія	  Veterinary
+ sci_zoo Зоологія	  Zoology
+ sci_botany Ботаніка	  Botany
+ sci_textbook Підручники	  Textbook
+ sci_crib Шпаргалки	  Cribs
+ sci_abstract Реферати	  Abstract
+ foreign_language Іноземні мови	  Foreign languages
+ psy_childs Дитяча психологія	  psy_childs
+ psy_theraphy Психотерапія і консультування		  psy_theraphy
+ psy_sex_and_family Секс і сімейна психологія	  Sex and family
+Комп'ютери і Інтернет	  Computers
+ comp_www Інтернет	  Internet
+ comp_programming Програмування	  Programming
+ comp_hard Апаратне забезпечення	  Hardware
+ comp_soft Програми	  Software
+ comp_db Бази даних	  Databases
+ comp_osnet ОС і Мережі	  OS & Networking
+ computers Навколокомпьютерна література	  Computers: Misk
+ comp_dsp Цифрова обробка сигналів	  DSP
+Довідкова література	  Reference
+ ref_encyc Енциклопедії	  Encyclopedias
+ ref_dict Словники	  Dictionaries
+ ref_ref Довідники	  Reference
+ ref_guide Керівництва	  Guidebooks
+ reference Довідкова література	  Misk References
+ design Мистецтво і Дизайн	  Art, Design
+ geo_guides Путівники	  Guides
+Релігія і духовність	  Religion
+ religion_rel Релігія	  Religion
+ religion_esoterics Езотерика	  Esoterics
+ religion_self Самоудосконалення	  Self-perfection
+ religion Релігійна література: інше	  Religion: Other
+ religion_budda Буддизм	  Buddha
+ religion_christianity Християнство	  Christianity
+ religion_orthodoxy Православ'я	  Orthodoxy
+ religion_catholicism Католицизм	  Catholicism
+ religion_protestantism Протестантизм 	  Protestantism
+ religion_hinduism Індуїзм	  Hinduism
+ religion_islam Іслам	  Islam
+ religion_judaism Іудаїзм	  Judaism
+ astrology Астрологія	  Astrology
+ palmistry Хіромантія	  Palmistry
+ religion_paganism Язичництво	  Paganism
+Гумор	  Humor
+ sf_humor Гумористична фантастика	  Humor SF
+ humor_anecdote Анекдоти	  Anecdote
+ humor_prose Гумористична проза	  Humor Prose
+ humor_verse Гумористичні вірші	  Humor Verses
+ humor Гумор: інше	  Misk Humor
+ comedy Комедія	  Comedy
+ humor_satire Сатира	  Satire
+Домоводство (Будинок і сім'я)	  Home, Family
+ home_cooking Кулінарія	  Cooking
+ home_pets Домашні тварини	  Pets
+ home_crafts Хобі і ремесла	  Hobbies & Crafts
+ home_entertain Розваги	  Entertaining
+ home_health Здоров'я		  Health
+ home_garden Сад і город	  Garden
+ home_diy Зроби сам	  Do it yourself
+ home_sport Спорт	  Sports
+ home_sex Еротика, Секс	  Erotica, Sex
+ home Домоводство	  Home: Other
+ home_collecting Колекціонування	  Collecting
+Техніка	  Technics
+ sci_tech Технічні науки	  Technical
+ sci_transport Транспорт і авіація	  Transport
+ sci_metal Металургія	  Metallurgy
+ sci_radio Радіоелектроніка	  Radio
+ sci_build Будівництво і сопромат	  Building
+ auto_regulations Автомобілі і ПДР	  Auto regulations
+ architecture_book Архітектура	  Architecture
+Інше	  Other
+ other Невідсортоване	  Other
+ notes Партитури	  Notes
+ periodic Газети і журнали	  Periodic
+ music Музика	  Music
+ cine Кіно	  Cine
+ theatre Театр	  Theatre
+ fanfiction Фанфік	  Fan fiction
+ unfinished Недописане	  Unfinished
+ visual_arts Образотворче мистецтво, фотографія	  Visual Arts
+Ділова література	  Economy, Business
+ banking Банківська справа	  Banking
+ accounting Бухоблік і аудит	  Accounting
+ global_economy Зовнішня торгівля	  Global Economy
+ paper_work Діловодство	  Paper Work
+ org_behavior Корпоративна культура	  Corporate Culture
+ personal_finance Особисті фінанси	  Personal Finance
+ small_business Малий бізнес	  Small Business
+ marketing Маркетинг, PR, реклама	  Marketing, PR, Adv
+ real_estate Нерухомість	  Real Estate
+ popular_business Про бізнес популярно	  Popular Business
+ industries Галузеві видання	  Industries
+ job_hunting Пошук роботи, кар'єра	  Job Hunting
+ ya Підліткова література	  Young-adult fiction
+ management Управління, підбір персоналу	  Management
+ stock Цінні папери, інвестиції	  Stock
+ economics Економіка	  Economics
+ trade Торгівля	  Trade
+Документальна література	  Nonfiction
+ adv_geo Подорожі і географія	  Travel & Geography
+ adv_animal Природа і тварини	  Nature & Animals
+ nonf_biography Біографії і Мемуари	  Biography & Memoirs
+ nonf_publicism Публіцистика	  Publicism
+ nonf_criticism Критика	  Criticism
+ nonfiction Документальна література	  Misk Nonfiction
+ nonf_military Військова документалістика	  Military docs
+ sci_popular Наук.поп.	  Science popular
+Драматургія	  Dramaturgy
+ dramaturgy Драматургія: інше	  Dramaturgy
+ drama Драма	  Drama
+ screenplays Кіносценарії	  Screenplays
+ comedy Комедія	  Comedy
+ mystery Містерія	  Mystery
+ scenarios Сценарії	  Scenarios
+ tragedy Трагедія	  Tragedy
+ vaudeville Водевіль	  Vaudeville
+Фольклор	  Folklore
+ humor_anecdote Анекдоти	  Anecdote
+ epic Билини	  Epic
+ child_folklore Дитячий фольклор	  Child Folklore
+ riddles Загадки	  Riddles
+ folk_songs Народні пісні	  Folk Songs
+ folk_tale Народні казки	  Folk tales
+ proverbs Прислів'я, приказки	  Proverbs
+ folklore Фольклор: інше	  Folklore
+ limerick Частівки, примовки, потешки	  Limerick
+Військова справа	  Military
+ prose_military Про війну	  Military
+ nonf_military Військова документалістика	  Military docs
+ military_history Військова історія	  Military History
+ military_weapon Військова техніка і озброєння	  Weapon
+ military_arts Бойові мистецтва	  Military Arts
+ military_special Cпецслужби  	  Military special
+ military Військова справа: інше	  Military

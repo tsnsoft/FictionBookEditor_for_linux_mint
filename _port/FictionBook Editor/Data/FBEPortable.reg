@@ -1,0 +1,24 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\FBE Team]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\FBE Team\FictionBook Editor]
+
+[HKEY_CURRENT_USER\Software\FBETeam]
+@=""
+
+[HKEY_CURRENT_USER\Software\FBETeam\FictionBook Editor]
+@=""
+
+[HKEY_CURRENT_USER\Software\FBETeam\FictionBook Editor\Documents]
+"Untitled.fb2"=dword:ffffffeb
+
+[HKEY_CURRENT_USER\Software\FBETeam\FictionBook Editor\Plugins]
+@=""
+
+[HKEY_CURRENT_USER\Software\FBETeam\FictionBook Editor\Plugins\{E242A6D3-84BF-4285-9FAA-160F95370668}]
+@="Export FB2 to HTML"
+"Icon"="Z:\\home\\tsn\\Downloads\\FictionBook.Editor.2.6.7\\FictionBook Editor\\App\\FBE\\ExportHTML.dll"
+"Menu"="To HTML"
+"Type"="Export"

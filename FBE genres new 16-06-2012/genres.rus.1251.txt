@@ -1,0 +1,290 @@
+1251 // codepage
+‘антастика	 Е SF, Fantasy
+ sf_history јльтернативна€ истори€	 Е Alternative history
+ sf_action Ѕоева€ фантастика	 Е Action SF
+ sf_epic Ёпическа€ фантастика	 Е Epic SF
+ sf_heroic √ероическа€ фантастика	 Е Heroic SF
+ sf_detective ƒетективна€ фантастика	 Е Detective SF
+ sf_cyberpunk  иберпанк	 Е Cyberpunk
+ sf_space  осмическа€ фантастика	 Е Space SF
+ sf_social —оциальна€ фантастика	 Е Social SF
+ sf_horror ”жасы	 Е Horror
+ sf_humor ёмористическа€ фантастика	 Е Humor SF
+ sf_fantasy ‘энтези	 Е Fantasy
+ sf Ќаучна€ фантастика	 Е Science Fiction
+ child_sf ƒетска€ фантастика	 Е Science Fiction for Kids
+ sf_fantasy_city √ородское фэнтези	 Е Fantasy city
+ sf_postapocalyptic ѕостапокалипсис	 Е Postapocalyptic
+ love_sf Ћюбовна€ фантастика	 Е Love SF
+ gothic_novel √отический роман	 Е Gothic novel
+ nsf Ќенаучна€ фантастика	 Е Non Science Fiction
+ fairy_fantasy —казочна€ фантастика	 Е Fairy SF
+ sf_etc ‘антастика: прочее	 Е Other SF
+ sf_irony »роническа€ фантастика	 Е Ironical SF
+ sf_fantasy_irony »роническое фэнтези	 Е Ironyc female fantasy
+ sf_mystic ћистика	 Е Mystic
+ sf_space_opera  осмоопера	 Е Space Opera
+ sf_stimpank —тимпанк	 Е Stimpank
+ sf_technofantasy “ехнофэнтези	 Е Technofantasy
+ popadanec ѕопаданцы	 Е popadanec 
+ historical_fantasy »сторическое фэнтези	 Е Historical fantasy
+ humor_fantasy ёмористическое фэнтези	 Е humor_fantasy
+ƒетективы и “риллеры	 Е Detectives, Thrillers
+ sf_detective ƒетективна€ фантастика	 Е Detective SF
+ det_classic  лассический детектив	 Е Classical Detective
+ det_police ѕолицейский детектив	 Е Police Stories
+ det_action Ѕоевик	 Е Action
+ det_irony »ронический детектив	 Е Ironical Detective
+ det_history »сторический детектив	 Е Historical Detective
+ det_espionage Ўпионский детектив	 Е Espionage Detective
+ det_crime  риминальный детектив	 Е Crime Detective
+ det_political ѕолитический детектив	 Е Political Detective
+ det_maniac ћань€ки	 Е Maniacs
+ det_hard  рутой детектив	 Е Hard-boiled Detective
+ thriller “риллер	 Е Thrillers
+ detective ƒетективы: прочее	 Е Detective
+ love_detective Ћюбовные детективы	 Е Detective Romance
+ child_det ƒетские остросюжетные	 Е Detective for Kids
+ thriller_legal ёридический триллер	 Е Legal thriller
+ thriller_medical ћедицинский триллер	 Е Medical thriller
+ thriller_techno “ехно триллер	 Е Techno Thriller
+ det_cozy ƒамский детективный роман	 Е Cozy Mysteries
+ѕроза	 Е Prose
+ prose ѕроза	 Е Prose
+ prose_classic  лассическа€ проза	 Е Classical Prose
+ prose_history »сторическа€ проза	 Е Historical Prose
+ prose_contemporary —овременна€ проза	 Е Contemporary Prose
+ prose_counter  онтркультура	 Е Counterculture
+ prose_rus_classic –усска€ классическа€ проза	 Е Russian Classics
+ prose_su_classics —оветска€ классическа€ проза	 Е Soviet Classics
+ prose_military ќ войне	 Е Military
+ aphorisms јфоризмы	 Е Aphorisms
+ essay Ёссе, очерк, этюд, набросок	 Е Essay
+ story Ќовелла	 Е Story
+ great_story ѕовесть	 Е Great story
+ short_story –ассказ	 Е Short story
+ roman –оман	 Е Roman
+ extravaganza ‘еери€	 Е Extravaganza
+ epistolary_fiction Ёпистол€рна€ проза	 Е Epistolary
+ prose_epic Ёпопе€	 Е Epic
+ prose_magic ћагический реализм	 Е Magic realism
+ sagas —емейный роман/—емейна€ сага	 Е Sagas
+ dissident јнтисоветска€ литература	 Е Anti-Soviet fiction
+ prose_sentimental —ентиментальна€ проза	 Е prose_sentimental
+Ћюбовные романы	 Е Love
+ love_contemporary —овременные любовные романы	 Е Contemporary Romance
+ love_history »сторические любовные романы	 Е Historical Romance
+ love_detective Ћюбовные детективы	 Е Detective Romance
+ love_short  ороткие любовные романы	 Е Short Romance
+ love_erotica Ёротика	 Е Erotica
+ love ќ любви	 Е About love
+ love_sf Ћюбовна€ фантастика	 Е Love SF
+ love_hard ѕорно	 Е Porno
+ det_cozy ƒамский детективный роман	 Е Cozy Mysteries
+ѕриключени€	 Е Adventures
+ adv_western ¬естерн	 Е Western
+ adv_history »сторические приключени€	 Е History
+ adv_indian ѕриключени€ про индейцев	 Е Indians
+ adv_maritime ћорские приключени€	 Е Maritime Fiction
+ adv_geo ѕутешестви€ и географи€	 Е Travel & Geography
+ adv_animal ѕрирода и животные	 Е Nature & Animals
+ adventure ѕриключени€: прочее	 Е Misk Adventures
+ child_adv ƒетские приключени€	 Е Adventures for Kids
+ƒетское	 Е Children's
+ child_tale —казка	 Е Fairy Tales
+ child_verse ƒетские стихи	 Е Verses for Kids
+ child_prose ƒетска€ проза	 Е Prose for Kids
+ child_sf ƒетска€ фантастика	 Е Science Fiction for Kids
+ child_det ƒетские остросюжетные	 Е Detective for Kids
+ child_adv ƒетские приключени€	 Е Adventures for Kids
+ child_education ќбразовательна€ литература	 Е Education for Kids
+ children ƒетска€ литература: прочее	 Е For Kids: Misk
+ child_folklore ƒетский фольклор	 Е Child Folklore
+ prose_game  нига-игра	 Е Game book
+ѕоэзи€	 Е Poetry, Dramaturgy
+ child_verse ƒетские стихи	 Е Verses for Kids
+ poetry ѕоэзи€: прочее	 Е Poetry
+ humor_verse ёмористические стихи	 Е Humor Verses
+ fable Ѕасни	 Е Fable
+ vers_libre ¬ерлибры	 Е Vers libre
+ visual_poetry ¬изуальна€ поэзи€	 Е Visual Poetry
+ lyrics Ћирика	 Е Lyrics
+ palindromes ѕалиндромы	 Е Palindromes
+ song_poetry ѕесенна€ поэзи€	 Е Song Poetry
+ experimental_poetry Ёкспериментальна€ поэзи€	 Е Experimental Poetry
+ epic_poetry Ёпическа€ поэзи€	 Е Epic Poetry
+ in_verse в стихах	 Е In verse
+—таринное	 Е Antique
+ antique_ant јнтична€ литература	 Е Antique Literature
+ antique_european ƒревнеевропейска€ литература	 Е Antique European Literature
+ antique_russian ƒревнерусска€ литература	 Е Antique Russian Literature
+ antique_east ƒревневосточна€ литература	 Е Antique East Literature
+ antique_myths ћифы. Ћегенды. Ёпос	 Е Myths. Legends. Epos
+ antique —таринна€ литература: прочее	 Е Other Antique
+Ќаука, ќбразование	 Е Science, Education
+ sci_history »стори€	 Е History
+ sci_psychology ѕсихологи€	 Е Psychology
+ sci_culture  ультурологи€	 Е Cultural Science
+ sci_religion –елигиоведение	 Е Religious Studies
+ sci_philosophy ‘илософи€	 Е Philosophy
+ sci_politics ѕолитика	 Е Politics
+ sci_business ƒелова€ литература	 Е Business
+ sci_juris ёриспруденци€	 Е Jurisprudence
+ sci_linguistic языкознание	 Е Linguistics
+ sci_medicine ћедицина	 Е Medicine
+ sci_phys ‘изика	 Е Physics
+ sci_math ћатематика	 Е Mathematics
+ sci_chem ’ими€	 Е Chemistry
+ sci_biology Ѕиологи€	 Е Biology
+ sci_tech “ехнические науки	 Е Technical
+ science Ќаучна€ литература: прочее	 Е Misk Science, Education
+ sci_biochem Ѕиохими€	 Е Biochemistry
+ sci_physchem ‘изическа€ хими€	 Е Physical chemistry
+ sci_anachem јналитическа€ хими€	 Е Analitic Chemistry
+ sci_orgchem ќрганическа€ хими€	 Е Organic Chemistry
+ sci_economy Ёкономика	 Е Economy
+ sci_state √осударство и право	 Е State science
+ sci_biophys Ѕиофизика	 Е Biophysics
+ sci_geo √еологи€ и географи€	 Е Geology
+ sci_cosmos јстрономи€ и  осмос	 Е Cosmos
+ sci_medicine_alternative јльтернативна€ медицина	 Е Alternative medicine
+ sci_philology Ћитературоведение	 Е Philology
+ sci_pedagogy ѕедагогика	 Е Pedagogy
+ sci_social_studies ќбществознание	 Е Social studies
+ sci_ecology Ёкологи€	 Е Ecology
+ military_history ¬оенна€ истори€	 Е Military History
+ sci_veterinary ¬етеринари€	 Е Veterinary
+ sci_zoo «оологи€	 Е Zoology
+ sci_botany Ѕотаника	 Е Botany
+ sci_textbook ”чебники	 Е Textbook
+ sci_crib Ўпаргалки	 Е Cribs
+ sci_abstract –ефераты	 Е Abstract
+ foreign_language »ностранные €зыки	 Е Foreign languages
+ psy_childs ƒетска€ психологи€	 Е psy_childs
+ psy_theraphy ѕсихотерапи€ и консультирование	 Е psy_theraphy
+ psy_sex_and_family —екс и семейна€ психологи€	 Е Sex and family
+ омпьютеры и »нтернет	 Е Computers
+ comp_www »нтернет	 Е Internet
+ comp_programming ѕрограммирование	 Е Programming
+ comp_hard јппаратное обеспечение	 Е Hardware
+ comp_soft ѕрограммы	 Е Software
+ comp_db Ѕазы данных	 Е Databases
+ comp_osnet ќ— и —ети	 Е OS & Networking
+ computers ќколокомпьютерна€ литература	 Е Computers: Misk
+ comp_dsp ÷ифрова€ обработка сигналов	 Е DSP
+—правочна€ литература	 Е Reference
+ ref_encyc Ёнциклопедии	 Е Encyclopedias
+ ref_dict —ловари	 Е Dictionaries
+ ref_ref —правочники	 Е Reference
+ ref_guide –уководства	 Е Guidebooks
+ reference —правочна€ литература	 Е Misk References
+ design »скусство и ƒизайн	 Е Art, Design
+ geo_guides ѕутеводители	 Е Guides
+–елиги€ и духовность	 Е Religion
+ religion_rel –елиги€	 Е Religion
+ religion_esoterics Ёзотерика	 Е Esoterics
+ religion_self —амосовершенствование	 Е Self-perfection
+ religion –елигиозна€ литература: прочее	 Е Religion: Other
+ religion_budda Ѕуддизм	 Е Buddha
+ religion_christianity ’ристианство	 Е Christianity
+ religion_orthodoxy ѕравославие	 Е Orthodoxy
+ religion_catholicism  атолицизм	 Е Catholicism
+ religion_protestantism ѕротестантизм 	 Е Protestantism
+ religion_hinduism »ндуизм	 Е Hinduism
+ religion_islam »слам	 Е Islam
+ religion_judaism »удаизм	 Е Judaism
+ astrology јстрологи€	 Е Astrology
+ palmistry ’ироманти€	 Е Palmistry
+ religion_paganism язычество	 Е Paganism
+ёмор	 Е Humor
+ sf_humor ёмористическа€ фантастика	 Е Humor SF
+ humor_anecdote јнекдоты	 Е Anecdote
+ humor_prose ёмористическа€ проза	 Е Humor Prose
+ humor_verse ёмористические стихи	 Е Humor Verses
+ humor ёмор: прочее	 Е Misk Humor
+ comedy  омеди€	 Е Comedy
+ humor_satire —атира	 Е Satire
+ƒомоводство (ƒом и семь€)	 Е Home, Family
+ home_cooking  улинари€	 Е Cooking
+ home_pets ƒомашние животные	 Е Pets
+ home_crafts ’обби и ремесла	 Е Hobbies & Crafts
+ home_entertain –азвлечени€	 Е Entertaining
+ home_health «доровье	 Е Health
+ home_garden —ад и огород	 Е Garden
+ home_diy —делай сам	 Е Do it yourself
+ home_sport —порт	 Е Sports
+ home_sex Ёротика, —екс	 Е Erotica, Sex
+ home ƒомоводство	 Е Home: Other
+ home_collecting  оллекционирование	 Е Collecting
+“ехника	 Е Technics
+ sci_tech “ехнические науки	 Е Technical
+ sci_transport “ранспорт и авиаци€	 Е Transport
+ sci_metal ћеталлурги€	 Е Metallurgy
+ sci_radio –адиоэлектроника	 Е Radio
+ sci_build —троительство и сопромат	 Е Building
+ auto_regulations јвтомобили и ѕƒƒ	 Е Auto regulations
+ architecture_book јрхитектура	 Е Architecture
+ѕрочее	 Е Other
+ other Ќеотсортированное	 Е Other
+ notes ѕартитуры	 Е Notes
+ periodic √азеты и журналы	 Е Periodic
+ music ћузыка	 Е Music
+ cine  ино	 Е Cine
+ theatre “еатр	 Е Theatre
+ fanfiction ‘анфик	 Е Fan fiction
+ unfinished Ќедописанное	 Е Unfinished
+ visual_arts »зобразительное искусство, фотографи€	 Е Visual Arts
+ƒелова€ литература	 Е Economy, Business
+ banking Ѕанковское дело	 Е Banking
+ accounting Ѕухучет и аудит	 Е Accounting
+ global_economy ¬нешн€€ торговл€	 Е Global Economy
+ paper_work ƒелопроизводство	 Е Paper Work
+ org_behavior  орпоративна€ культура	 Е Corporate Culture
+ personal_finance Ћичные финансы	 Е Personal Finance
+ small_business ћалый бизнес	 Е Small Business
+ marketing ћаркетинг, PR, реклама	 Е Marketing, PR, Adv
+ real_estate Ќедвижимость	 Е Real Estate
+ popular_business ќ бизнесе попул€рно	 Е Popular Business
+ industries ќтраслевые издани€	 Е Industries
+ job_hunting ѕоиск работы, карьера	 Е Job Hunting
+ ya ѕодросткова€ литература	 Е Young-adult fiction
+ management ”правление, подбор персонала	 Е Management
+ stock ÷енные бумаги, инвестиции	 Е Stock
+ economics Ёкономика	 Е Economics
+ trade “орговл€	 Е Trade
+ƒокументальна€ литература	 Е Nonfiction
+ adv_geo ѕутешестви€ и географи€	 Е Travel & Geography
+ adv_animal ѕрирода и животные	 Е Nature & Animals
+ nonf_biography Ѕиографии и ћемуары	 Е Biography & Memoirs
+ nonf_publicism ѕублицистика	 Е Publicism
+ nonf_criticism  ритика	 Е Criticism
+ nonfiction ƒокументальна€ литература	 Е Misk Nonfiction
+ nonf_military ¬оенна€ документалистика	 Е Military docs
+ sci_popular Ќаучпоп	 Е Science popular
+ƒраматурги€	 Е Dramaturgy
+ dramaturgy ƒраматурги€: прочее	 Е Dramaturgy
+ drama ƒрама	 Е Drama
+ screenplays  иносценарии	 Е Screenplays
+ comedy  омеди€	 Е Comedy
+ mystery ћистери€	 Е Mystery
+ scenarios —ценарии	 Е Scenarios
+ tragedy “рагеди€	 Е Tragedy
+ vaudeville ¬одевиль	 Е Vaudeville
+‘ольклор	 Е Folklore
+ humor_anecdote јнекдоты	 Е Anecdote
+ epic Ѕылины	 Е Epic
+ child_folklore ƒетский фольклор	 Е Child Folklore
+ riddles «агадки	 Е Riddles
+ folk_songs Ќародные песни	 Е Folk Songs
+ folk_tale Ќародные сказки	 Е Folk tales
+ proverbs ѕословицы, поговорки	 Е Proverbs
+ folklore ‘ольклор: прочее	 Е Folklore
+ limerick „астушки, прибаутки, потешки	 Е Limerick
+¬оенное дело	 Е Military
+ prose_military ќ войне	 Е Military
+ nonf_military ¬оенна€ документалистика	 Е Military docs
+ military_history ¬оенна€ истори€	 Е Military History
+ military_weapon ¬оенна€ техника и вооружение	 Е Weapon
+ military_arts Ѕоевые искусства	 Е Military Arts
+ military_special Cпецслужбы 	 Е Military special
+ military ¬оенное дело: прочее	 Е Military
